@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613666781_48-p-fon-dlya-prezentatsii-petr-1-51.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align:center;
+}
